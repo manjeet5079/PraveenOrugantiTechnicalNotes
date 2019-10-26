@@ -50,6 +50,13 @@ Coding Practice:
 13. http://codekata.com/
 14. https://www.firecode.io/
 
+Guides:
+1. http://www.geeksforgeeks.org/
+2. https://www.learneroo.com/subjects/8
+3. http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static
+4. http://www.infoarena.ro/training-path
+5. https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118
+
 Reference Books:
 
 1) Cracking the Coding Interview :https://amzn.to/30HFJCE
