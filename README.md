@@ -33,19 +33,22 @@ Arden Dertat:
 
 http://www.ardendertat.com/…/programming-interview-questio…/
 
-Competitive Programming Sites:
+Coding Practice:
 
-1.https://codeforces.com
-
-2.https://codingame.com
-
-3.https://www.codechef.com
-
-4.https://www.hackerrank.com/
-
-5.https://www.hackerearth.com/
-
-6.https://leetcode.com/
+1. https://leetcode.com/
+2. https://www.interviewbit.com/
+3. https://codility.com/
+4. https://www.hackerrank.com/
+5. https://projecteuler.net/
+6. https://spoj.com/
+7. https://code.google.com/codejam/contests.html
+8. https://www.hackerearth.com/
+9. https://www.topcoder.com/
+10. https://www.codechef.com/
+11. https://www.codewars.com/
+12. https://codesignal.com
+13. http://codekata.com/
+14. https://www.firecode.io/
 
 Reference Books:
 
