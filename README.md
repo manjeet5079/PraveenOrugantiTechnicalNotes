@@ -111,7 +111,7 @@ https://m.facebook.com/groups/2340886582907696?view=permalink&id=234834102882891
 
 Java8 features:
 
-https://m.facebook.com/groups/2340886582907696?view=permalink&id=2348340802162274
+https://www.facebook.com/groups/2340886582907696/permalink/2377184805944540/
 
 Servlets:
 
