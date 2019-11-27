@@ -164,3 +164,8 @@ https://www.facebook.com/groups/2340886582907696/permalink/2360752190921135/
 If you are unable to download above files then you can fetch it from my github repository:
 
 https://github.com/praveenoru…/PraveenOrugantiTechnicalNotes
+
+
+if you like this group you can provide your funds and for more details you can check my repo.
+
+https://github.com/praveenoruganti/praveenoruganti-repo-funding
