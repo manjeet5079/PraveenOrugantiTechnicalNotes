@@ -165,7 +165,3 @@ If you are unable to download above files then you can fetch it from my github r
 
 https://github.com/praveenoru…/PraveenOrugantiTechnicalNotes
 
-
-if you like this group you can provide your funds and for more details you can check my repo.
-
-https://github.com/praveenoruganti/praveenoruganti-repo-funding
